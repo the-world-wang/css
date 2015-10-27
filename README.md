@@ -9,4 +9,7 @@ css特殊性：特殊性决定了在同样规定了样式的时候，层叠的�
 
 css内边距，边框和外边距
 1）外边距：margin{top,right,bottom,left}时钟的顺序
+  当margin里面只有两个值的时候也可以表示4个值
+  可以使用margin-top,margin-right,margin-bottom
 2）内边距：padding
+  同上
