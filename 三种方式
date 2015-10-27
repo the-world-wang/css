@@ -1,0 +1,7 @@
+内联样式表
+  通过元素style属性，已经不推荐使用
+文档样式表
+  通过head中style标签指定
+外部样式表
+  形如：<link ref="stylesheet" type="text/css" href="style.css"/>
+  写在css文件里，易扩展
