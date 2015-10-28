@@ -1,0 +1,10 @@
+css2
+border只包含width,style,color
+而且包含4个方向，所有共有12个
+如:border-top-width
+  border-bottom-style
+css3
+border包括了图片，圆角，阴影等
+移动设备适配，可在meta中加入...
+或者通过MediaQuery
+移动框架有jquery-mobile
