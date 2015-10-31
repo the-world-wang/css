@@ -1,0 +1,8 @@
+ <p class="first second">第三段</p>
+ 
+    p.second.first{
+            background-color: #a94442;
+    }
+    
+class中间加空格代表同是满足两个条件，两者之间是并列的关系，即第一个既有class first，又有class second
+而p.second.first则选取p中既first，又有second的，两者不存先后的关系
